@@ -6,10 +6,10 @@ href="www.linkedin.com/in/nicole-barajas-0067b35a">Data Analyst</a>
 
 - <b>💾SQL Projects</b>
   - [Demonstrating SQL Techniques](https://github.com/users/nicolebarajas-ship-it/projects/1)
-  - [Food & Beverage Revenue Analysis for Arts Nonprofit](https://github.com/users/nicolebarajas-ship-it/projects/2)
+  - [Food & Beverage Revenue Analysis for Arts Nonprofit](https://github.com/nicolebarajas-ship-it/Food_and_Beverage_Revenue_Analysis_for_Arts_NP/blob/main/README.md)
 
 - <b> 💾Power BI Projects</b>
-  - [Food & Beverage Revenue Analysis for Arts Nonprofit](https://github.com/users/nicolebarajas-ship-it/projects/2)
+  - [Food & Beverage Revenue Analysis for Arts Nonprofit](https://github.com/nicolebarajas-ship-it/Food_and_Beverage_Revenue_Analysis_for_Arts_NP/blob/main/README.md)
     
 <h2>📚Certifications:</h2>
 
